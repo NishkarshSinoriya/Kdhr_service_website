@@ -1,0 +1,34 @@
+/*extra small*/
+@media (max-width:768px) {
+	#cta .head{
+		transform:skew(0);
+		margin-left:0;
+	}
+	#cta .head .counter{
+		transform:skew(0);
+	}
+	.tr{
+		display: none;
+	}
+	#banner .first_half{
+		min-height: 500px;
+		background: rgba(35, 29, 32, 0.78);
+	}
+}
+/*extra small end*/
+
+/*small*/
+@media (min-width:768px) {
+
+}
+/*small end*/
+
+/*medium */
+
+@media (min-width:992px) {}
+/*medium end*/
+
+/*large*/
+
+@media (min-width:1200px) {}
+/*large end*/
